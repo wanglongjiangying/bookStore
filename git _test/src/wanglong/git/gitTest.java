@@ -17,4 +17,8 @@ public class gitTest {
         System.out.println("sfdsfdsf");
 
     }
+
+    public void testdev1(){
+        System.out.println("测试dev1");
+    }
 }
