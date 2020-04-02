@@ -20,5 +20,6 @@ public class gitTest {
 
     public void testdev1(){
         System.out.println("测试dev1");
+        System.out.println("测试和v并");
     }
 }
