@@ -12,4 +12,9 @@ public class gitTest {
     public void test(){
         System.out.println("sfdsf");
     }
+
+    public void test1(){
+        System.out.println("sfdsfdsf");
+
+    }
 }
