@@ -4,7 +4,7 @@ wanglong.git;
 
 public class gitTest {
     public static void main(String[] args) {
-        System.out.println("dsfdsfdsfdsfdsf");
+        System.out.println("dsfdsfdsfdsfdsf山豆根第");
         System.out.println("ghjghjhkj");
         System.out.println("dfdgfdgfdg");
     }
